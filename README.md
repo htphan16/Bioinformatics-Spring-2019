@@ -6,7 +6,7 @@ Module 1:
 - explore mtDNA
 - BLAST
 - Shell scripting
-- Understand genomic data computationally
+- Understand genomic data in terms of assembly and annotated genome files
 
 Module 2:
 - Intro to metagenomics
@@ -21,6 +21,13 @@ Module 3:
 Module 4:
 - Mapping RNA/DNA to an assembled genome 
 - RNASeq workflow
+
+Programming/Software:
+- Shell scripting, R
+- BLAST
+- Illumina MiSeq SOP
+- MGRast API
+- Bowtie, Tophat, Samtools, HTSeq
 
 
 
